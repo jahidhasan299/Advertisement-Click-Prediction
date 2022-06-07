@@ -254,7 +254,6 @@ skip the steps below, and  go straight to running the application.
 
 # Result 
 <img width="1407" alt="Screen Shot 2022-06-07 at 1 52 46 PM" src="https://user-images.githubusercontent.com/49092540/172306211-2d4ed1b3-dbb8-48a8-b1ed-a7be47ff4f50.png">
-![Screen Shot 2022-06-07 at 1 47 59 PM](https://user-images.githubusercontent.com/49092540/172306205-d83fe8cd-2541-4034-9f90-c932918c9fd7.png)
 
-
+![Screen Shot 2022-06-07 at 1 47 59 PM](https://user-images.githubusercontent.com/49092540/172306395-2ac4c476-ff40-4e7b-b2b5-5babec72f222.png)
 
